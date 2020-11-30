@@ -20,6 +20,5 @@ Outra dica é pintar os negativos de vermelho (manualmente).
 
 ![](https://ferramentasexcelvba.files.wordpress.com/2020/11/waterfall2.png)
 
-Planilhas em asgunzi/GraficoCascataExcel (github.com)
 
-Ideias técnicas com uma pitada de filosofia
+
